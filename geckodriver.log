@@ -1,0 +1,9 @@
+1493017203470	geckodriver	INFO	Listening on 127.0.0.1:63425
+1493017205675	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.raUzaaQ8Q65E
+1493017205677	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1493017205746	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63437
+1493017211335	Marionette	INFO	Listening on port 63437
+1493017211458	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GPU 6808] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6044] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6044] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
